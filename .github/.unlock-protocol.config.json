@@ -1,0 +1,15 @@
+{
+  "persistentCheckout": true,
+  "icon": "https://static.wixstatic.com/media/469f29_0364cc06c641445ab358427e5544091a~mv2.png",
+  "callToAction": {
+    "default": "Help Us Bridge Funding Gaps in Public Education
+\nSubscribe to AmwFund & Unlock now",
+    "pending": "Your transaction is confirming",
+    "confirmed": "We thank you for your support. For further information:\nhttps://www.amwwaldorf.org/"
+  },
+  "locks": {
+    "0x3e67D82E98088453C4E151b9635Db3B06C0a5FCc": {
+      "name": "AmwFund Lock"
+    }
+  }
+}
