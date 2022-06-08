@@ -1,14 +1,16 @@
 {
   "persistentCheckout": true,
-  "icon": "https://static.wixstatic.com/media/469f29_0364cc06c641445ab358427e5544091a~mv2.png",
-  "callToAction": {
-    "default": "Help us bring Web3 to Public Education, Make a Donation, Access our Token gated Discord channel, Receive cool NFTs",
-    "pending": "#GRATITUDE",
-    "confirmed": "#GRATITUDE"
+  "icon":"https://static.wixstatic.com/media/469f29_0364cc06c641445ab358427e5544091a~mv2.png",
+  "callToAction":{
+     "default": " Help us bring Web3 to Public Education, Make a Donation, Access our Token gated Discord channel, Receive cool NFTs ",
+     "expired": "Unfortunately your previous key has expired... But you can get a new one now!",
+     "pending": "Your transaction has been sent but not mined yet... you'll get your Non Fungible Token right after.",
+     "confirmed": "Thanks a lot for your support. It means a lot to us. Please send us feedback, question and suggestions!"
   },
-  "locks": {
-    "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef": {
-      "name": "AmwFund Recurring wxDAI"
-    }
+  "locks":{
+     "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef":{
+        "name":"AmwFund Recurring wxDAI"
+     }
   }
 }
+
