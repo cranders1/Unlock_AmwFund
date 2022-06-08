@@ -11,7 +11,11 @@
      "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef":{ 
         "network": 100,
         "name":"AmwFund Recurring wxDAI"
-     }
+     },
+    "0x9446C3F42B27d969f384b29e09F77b76b40D164b": {
+      "network": 100,
+      "name": "AmwFund NFT Education"
+    }
   }
 }
 
