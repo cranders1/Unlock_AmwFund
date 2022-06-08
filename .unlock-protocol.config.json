@@ -3,8 +3,7 @@
   "icon": "",
   "callToAction": {
     "default": "Help us bring Web3 to Public Education, Make a Donation, Access our Token gated Discord channel, Receive cool NFTs",
-    "pending": "#GRATITUDE
-https://twitter.com/AmwFund",
+    "pending": "#GRATITUDE",
     "confirmed": "#GRATITUDE\nhttps://twitter.com/AmwFund"
   },
   "locks": {
