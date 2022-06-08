@@ -17,6 +17,7 @@
       "name": "AmwFund NFT Education"
     },
     "0x3e67D82E98088453C4E151b9635Db3B06C0a5FCc": {
+      "network": 1,
       "name": "AmwFund DAI Mainnet"
     }
   }
