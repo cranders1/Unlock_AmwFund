@@ -2,19 +2,14 @@
   "persistentCheckout": true,
   "icon": "",
   "callToAction": {
-    "default": "AmwFund NFT Memberships -- Support us with an NFT membership, get access to our token gated Discord channel, and receive a cool NFT!\n\nhttps://twitter.com/AmwFund",
-    "pending": "#GRATITUDE\n\nhttps://twitter.com/AmwFund",
-    "confirmed": "#GRATITUDE\n\nhttps://twitter.com/AmwFund"
+    "default": "Help us bring Web3 to Public Education, Make a Donation, Access our Token gated Discord channel, Receive cool NFTs",
+    "pending": "#GRATITUDE
+https://twitter.com/AmwFund",
+    "confirmed": "#GRATITUDE\nhttps://twitter.com/AmwFund"
   },
   "locks": {
     "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef": {
-      "name": "AmwFund Recurring wxDAI Membership"
-    },
-    "0x3e67D82E98088453C4E151b9635Db3B06C0a5FCc": {
-      "name": "AmwFund Non-recurring DAI Membership"
-    },
-    "0x9446C3F42B27d969f384b29e09F77b76b40D164b": {
-     "name": "AmwFund NFT Education"
+      "name": "AmwFund Recurring wxDAI"
     }
-  }  
+  }
 }
