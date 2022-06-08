@@ -8,7 +8,8 @@
      "confirmed": "Thanks a lot for your support. It means a lot to us. Please send us feedback, question and suggestions!"
   },
   "locks":{
-     "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef":{
+     "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef":{ 
+        "network": 100,
         "name":"AmwFund Recurring wxDAI"
      }
   }
