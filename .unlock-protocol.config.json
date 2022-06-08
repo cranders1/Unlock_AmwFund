@@ -1,15 +1,19 @@
 {
   "persistentCheckout": true,
-  "icon":"https://static.wixstatic.com/media/469f29_0364cc06c641445ab358427e5544091a~mv2.png",
-  "callToAction":{
-     "default": "Help us bridge funding gaps in public education by becoming a member of the AmwFund Unlock community. You’ll get your own Non Fungible Token",
-     "expired": "Unfortunately your previous key has expired... But you can get a new one now!",
-     "pending": "Your transaction has been sent but not mined yet... you'll get your Non Fungible Token right after.",
-     "confirmed": "Thanks a lot for your support. It means a lot to us. Please send us feedback, question and suggestions!"
+  "icon": "",
+  "callToAction": {
+    "default": "AmwFund NFT Memberships -- Support us with an NFT membership, get access to our token gated Discord channel, and receive a cool NFT!\n\nhttps://twitter.com/AmwFund",
+    "pending": "#GRATITUDE\n\nhttps://twitter.com/AmwFund",
+    "confirmed": "#GRATITUDE\n\nhttps://twitter.com/AmwFund"
   },
-  "locks":{
-     "0x3e67D82E98088453C4E151b9635Db3B06C0a5FCc":{
-        "name":"AmwFund Unlock Community"
-     }
+  "locks": {
+    "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef": {
+      "name": "AmwFund Recurring wxDAI Membership"
+    },
+    "0x3e67D82E98088453C4E151b9635Db3B06C0a5FCc": {
+      "name": "AmwFund Non-recurring DAI Membership"
+    },
+    "0x9446C3F42B27d969f384b29e09F77b76b40D164b": {
+     "name": "AmwFund NFT Education"
   }
 }
