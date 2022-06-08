@@ -1,10 +1,10 @@
 {
   "persistentCheckout": true,
-  "icon": "",
+  "icon": "https://static.wixstatic.com/media/469f29_0364cc06c641445ab358427e5544091a~mv2.png",
   "callToAction": {
     "default": "Help us bring Web3 to Public Education, Make a Donation, Access our Token gated Discord channel, Receive cool NFTs",
     "pending": "#GRATITUDE",
-    "confirmed": "#GRATITUDE\nhttps://twitter.com/AmwFund"
+    "confirmed": "#GRATITUDE"
   },
   "locks": {
     "0xA232B71aF88Af881C7Cab927fC13727231A9b0ef": {
